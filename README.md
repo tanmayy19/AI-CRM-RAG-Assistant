@@ -20,7 +20,7 @@ It uses Retrieval-Augmented Generation (RAG) to answer CRM questions with accura
 ## 🛠️ Tech Stack
 
 **Backend:** Python, Flask, SQLite, Pandas, OpenAI API  
-**Frontend:** HTML, Bootstrap 5, JavaScript  
+**Frontend:** HTML, Bootstrap 5
 **Database Tables:** accounts, products, sales_pipeline, sales_teams, interactions  
 
 ------------------------------------------------------------
